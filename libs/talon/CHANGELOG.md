@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.0.4](https://github.com/stjordanis/deepagents/compare/deepagents-talon==0.0.3...deepagents-talon==0.0.4) (2026-07-25)
+
+
+### Features
+
+* **sdk:** optional video frame extraction on `read_file` ([#4094](https://github.com/stjordanis/deepagents/issues/4094)) ([b927147](https://github.com/stjordanis/deepagents/commit/b927147d026749c6c790bb06c9853515dabf579c))
+* **talon:** `DEEPAGENTS_TALON_RECURSION_LIMIT` env var ([#4354](https://github.com/stjordanis/deepagents/issues/4354)) ([82d1eac](https://github.com/stjordanis/deepagents/commit/82d1eac59a43f096096e86849733aa716adb18fc))
+* **talon:** add Fleet zip import command ([#4493](https://github.com/stjordanis/deepagents/issues/4493)) ([0289dd0](https://github.com/stjordanis/deepagents/commit/0289dd0a190e5060e631e840da115dd59c64cf5c))
+* **talon:** audit reaction approval attempts ([#4348](https://github.com/stjordanis/deepagents/issues/4348)) ([d7895c4](https://github.com/stjordanis/deepagents/commit/d7895c4f9b996ad6fe194936bbeaa8beea21e913))
+* **talon:** ingest Telegram approval reactions ([#4346](https://github.com/stjordanis/deepagents/issues/4346)) ([437af0b](https://github.com/stjordanis/deepagents/commit/437af0bf79332b20ae0c1883c3cc4d91a98c2457))
+
+
+### Bug Fixes
+
+* **talon:** materialize agents under home ([f2b26a8](https://github.com/stjordanis/deepagents/commit/f2b26a8915fb70c26d32af6e8240442e5e6118e6))
+
 ## [0.0.3](https://github.com/langchain-ai/deepagents/compare/deepagents-talon==0.0.2...deepagents-talon==0.0.3) (2026-07-06)
 
 
